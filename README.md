@@ -40,7 +40,7 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
   <tbody>
     <tr>
      <td>Projeto</td>
-     <td>Libraries</td>
+     
     </tr>
     <tr>
       <td>
@@ -50,13 +50,6 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
          <li>SaoPedro-Model</li>
         </u>
        </td>
-      <td>
-       <u>
-        <li></li>
-        <li></li>
-        <li>sankhyaw.jar</li>
-       </u>
-      </td>
     </tr>
   </tbody>
 </table>
