@@ -7,10 +7,22 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Oracle](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle)
 
-## ☕️ Serviços
+## ☕️ Listerners
  
 * AnimaisListner
-* Sankhya W
+* ApontamentoProdução
+* BrincosAnimais
+* FazendaListerners
+* HistoricoOcorrencias
+* PelagemListerners
+* MovimentacoesAnimaisListerners
+* ItemMovimentacoesAnimalListerners
+* TiposOcorrenciaListerners
+
+## ☕️ Services
+
+* BovinosOperacoesSPBean
+* ControleOperacoesBean
  
 ## 🚀 Telas
 
@@ -40,8 +52,9 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
        </td>
       <td>
        <u>
-        <li>mge-modelcore.jar</li>
-        <li>jape.jar</li>
+        <li></li>
+        <li></li>
+        <li>sankhyaw.jar</li>
        </u>
       </td>
     </tr>
