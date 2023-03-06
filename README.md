@@ -24,16 +24,6 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
 * BovinosOperacoesSPBean
 * ControleOperacoesBean
  
-## 🚀 Telas
-
- <table>
-  <tbody>
-    <tr>
-      <td><a href="144.22.210.91:8280/mge">Tela Inicial</a></td>
-    </tr>
-    
-  </tbody>
-</table>
 
 ## ![download](https://user-images.githubusercontent.com/108894680/186968350-b54975cc-9c32-4fbd-8da0-88d8105b610a.png) Downloads
 * [Sankhya.Downloads ](http://downloads.sankhya.com.br/downloads?app=outros#)
