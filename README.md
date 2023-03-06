@@ -1,4 +1,4 @@
-<img src="https://github.com/rondynely/Tecway/blob/main/LogoSankhyaBranco.png">
+<img src="https://github.com/rondybrandao/gsp-bovino/blob/main/img-logo.gsp.png">
 
 ### Olá! 👋
 Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
