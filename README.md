@@ -35,25 +35,6 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
   </tbody>
 </table>
 
-## ![java](https://user-images.githubusercontent.com/108894680/186963630-ee640528-74c9-47c3-97a2-ea6aa3d2b434.png) Libraries (Modulo Java)
- <table>
-  <tbody>
-    <tr>
-     <td>Projeto</td>
-     
-    </tr>
-    <tr>
-      <td>
-       <u>
-         <li>Bovinos-Model</li>
-         <li>Bovinos-VC</li>
-         <li>SaoPedro-Model</li>
-        </u>
-       </td>
-    </tr>
-  </tbody>
-</table>
-
 ## ![download](https://user-images.githubusercontent.com/108894680/186968350-b54975cc-9c32-4fbd-8da0-88d8105b610a.png) Downloads
 * [Sankhya.Downloads ](http://downloads.sankhya.com.br/downloads?app=outros#)
 
