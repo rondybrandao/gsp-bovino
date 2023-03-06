@@ -1,0 +1,20 @@
+<sk-application ng-controller="BrincosAnimaisController as ctrl">
+
+    <sk-dynaform sk-entity-name="BrincosAnimais" 
+        sk-dynaform-interceptor="ctrl"
+        sk-skip-start-page="false"
+        sk-default-mode="master"
+        sk-on-dynaform-loaded="ctrl.onDynaformLoaded(dynaform, dataset)">
+    
+    
+    	 <dynaform-brincos-animais>
+		        	<sk-left-top-bar>
+						<button  primary ng-click="finalizarUso()">Finalizar</button>
+												
+		        	</sk-left-top-bar>
+		    </dynaform-brincos-animais>
+
+    </sk-dynaform>
+    
+</sk-application>
+

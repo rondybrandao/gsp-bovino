@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata-provider >
+<metadata-provider batch-fetch-size="200"
+	data-source="java:/MGEDS"
+	event-listener="br.com.sankhya.modelcore.dwfdata.DynamicEntityLoader"
+	name="bovinos-dwf" parent="mge-dwf" use-ejb="false" verbose="false">
+	<container-config commit-type-d-refresh-rate="120"
+		entity-cache-max-idle="1800" entity-cache-max-size="5000"
+		instance-cache-max-size="2000" />
+
+	<descriptor location='br/com/bovinos/dwfdata/dd/Raca.xml'
+		name='Raca' />
+
+	<descriptor
+		location='br/com/bovinos/dwfdata/dd/Associacao.xml' name='Associacao' />
+
+	<descriptor
+		location='br/com/bovinos/dwfdata/dd/TiposOcorrencia.xml'
+		name='TiposOcorrencia' />
+
+	<descriptor
+		location='br/com/bovinos/dwfdata/dd/CategoriaAnimais.xml'
+		name='CategoriaAnimais' />
+
+	<descriptor
+		location='br/com/bovinos/dwfdata/dd/Proprietario.xml'
+		name='Proprietario' />
+
+	<descriptor location='br/com/bovinos/dwfdata/dd/Fazenda.xml'
+		name='Fazenda' />
+
+	<descriptor location='br/com/bovinos/dwfdata/dd/Pelagem.xml'
+		name='Pelagem' />
+
+	<descriptor
+		location='br/com/bovinos/dwfdata/dd/ComposicaoRacial.xml'
+		name='ComposicaoRacial' />
+
+	<descriptor
+		location='br/com/bovinos/dwfdata/dd/Animais.xml'
+		name='Animais' />
+		
+	<descriptor location='br/com/bovinos/dwfdata/dd/Genealogia.xml'
+	name='Genealogia' />		
+
+	<descriptor location='br/com/bovinos/dwfdata/dd/Femea.xml'
+	name='Femea' />		
+
+	<descriptor location='br/com/bovinos/dwfdata/dd/Macho.xml'
+	name='Macho' />	
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/ConsultaCriador.xml'
+	name='ConsultaCriador' />		
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/ConsultaFazenda.xml'
+	name='ConsultaFazenda' />	
+	
+
+	<descriptor location='br/com/bovinos/dwfdata/dd/Brincos.xml'
+	name='Brincos' />	
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/BrincosAnimais.xml'
+	name='BrincosAnimais' />
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/FinanceiroAnimais.xml'
+	name='FinanceiroAnimais' />
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/ConsultaAnimais.xml'
+	name='ConsultaAnimais' />
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/RatearFinanceiroAnimais.xml'
+	name='RatearFinanceiroAnimais' />
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/FilaConferenciaBrincos.xml'
+	name='FilaConferenciaBrincos' />
+	
+	<descriptor location='br/com/bovinos/dwfdata/dd/FilaConferenciaBrincosItem.xml'
+	name='FilaConferenciaBrincosItem' />
+	
+
+		
+
+</metadata-provider>

@@ -1,0 +1,14 @@
+<sk-application ng-controller="AnimaisController as ctrl">
+
+    <sk-dynaform sk-entity-name="Animais" 
+        sk-skip-start-page="false"
+        sk-default-mode="master"
+       	sk-dynaform-interceptor="ctrl"
+	    sk-form-interceptor="ctrl" 
+		sk-datagrid-interceptor="ctrl" 
+        sk-on-dynaform-loaded="ctrl.onDynaformLoaded(dynaform, dataset)">
+
+    </sk-dynaform>
+    
+</sk-application>
+
