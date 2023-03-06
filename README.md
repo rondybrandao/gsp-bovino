@@ -9,7 +9,7 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
 
 ## ☕️ Serviços
  
-* Github
+* AnimaisListner
 * Sankhya W
  
 ## 🚀 Telas
@@ -17,23 +17,9 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
  <table>
   <tbody>
     <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfTElCTUJD">Solicitação Liberação Aplicação Financeira</a></td>
+      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfTElCTUJD">Tela Inicial</a></td>
     </tr>
-    <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfTElCTUJD">Motivos de Baixas PEFIN - Serasa</a></td>
-    </tr>
-    <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfTElCTUJD">Mov. PEFIN - Serasa</a></td>
-    </tr>
-   <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfTElCTUJD">Naturezas PEFIN - Serasa</a> </td>
-    </tr>
-    <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfQ0FUTUFH">Categorias Magento</a></td>
-    </tr>
-    <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfVE1BR1BBUg==">Preferências Magento</a></td>
-    </tr>
+    
   </tbody>
 </table>
 
@@ -47,8 +33,9 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
     <tr>
       <td>
        <u>
-         <li>EventoLiberacaoBancaria.java</li>
-         <li>LiberacaoBancaria.java</li>
+         <li>Bovinos-Model</li>
+         <li>Bovinos-VC</li>
+         <li>SaoPedro-Model</li>
         </u>
        </td>
       <td>
