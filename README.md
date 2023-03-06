@@ -29,7 +29,7 @@ Este repositorio contém arquivos de códigos de extensão do sistema Sankhya.
  <table>
   <tbody>
     <tr>
-      <td><a href="http://refrial.nuvemdatacom.com.br:9586/mge/system.jsp#app/YnIuY29tLnNhbmtoeWEubWVudS5hZGljaW9uYWwuQURfTElCTUJD">Tela Inicial</a></td>
+      <td><a href="144.22.210.91:8280/mge">Tela Inicial</a></td>
     </tr>
     
   </tbody>
